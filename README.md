@@ -2,12 +2,11 @@
 ### Embedded software engineer
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1121428/screenshots/3792775/04_inventor_single.gif
 " >
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 Microcontrollers - stm32f446 and pic 
+- ♨️ Worked on different communication protocols 
+- 📕 Final year project - vr glove
+- 🔬 Research work - vr glove sensor fusion 
+- ⚡ Fun fact: I love mathematics
 - 📝 I regularly write articles on [https://www.dark-creator.com/](https://www.dark-creator.com/)
 
 - 📫 How to reach me **priyadharshankannankck@gmail.com**
