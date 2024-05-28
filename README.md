@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m PRIYADHARSHAN K
 ### Embedded software engineer
-<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1121428/screenshots/3792775/04_inventor_single.gif
-" >
+
 - 👨‍💻 Microcontrollers - stm32f446 and pic 
 - ♨️ Worked on different communication protocols 
 - 📕 Final year project - vr glove
