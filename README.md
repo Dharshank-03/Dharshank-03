@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m PRIYADHARSHAN K
 ### Embedded software engineer
-<img src="https://cdn.dribbble.com/users/1121428/screenshots/3792775/04_inventor_single.gif
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Frobot-saying-hello&psig=AOvVaw1Ls_kLiwR0VYYJS2HpVFZf&ust=1716971384472000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZlMv6r4YDFQAAAAAdAAAAABAE
 " align="right" width="370" height="290">
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
