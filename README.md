@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m PRIYADHARSHAN K
 ### Embedded software engineer
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3792775-Zoetrope-Inventor&psig=AOvVaw2wYA_uRotbQY38Zf-Z-k35&ust=1716971393824000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiYlYX5r4YDFQAAAAAdAAAAABAE" align="right" width="370" height="290">
+<img src="https://cdn.dribbble.com/users/1121428/screenshots/3792775/04_inventor_single.gif
+" align="right" width="370" height="290">
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
